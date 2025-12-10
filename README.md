@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 10-Day RAG Beginner Roadmap
 
 Welcome to your comprehensive learning journey into **Retrieval-Augmented Generation (RAG)**! This repository is designed for absolute beginners who want to master RAG from the ground up in just 10 days.
@@ -168,3 +169,6 @@ Created by **Chandra Sekhar**
 
 # RAG-ZERO-HERO-10days
 # GAG
+=======
+# RAG-ZERO-HERO-10days
+>>>>>>> 9a18330a08437d2e0e62ab313643015f10c6a36f
