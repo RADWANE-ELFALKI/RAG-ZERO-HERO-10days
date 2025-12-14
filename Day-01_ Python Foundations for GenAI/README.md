@@ -344,6 +344,5 @@ for num in numbers:
 - Python `requests` library documentation for API calls
 - PEP 8: Python style guide for writing clean code
 
----
-
+-----
 **Next up:** Day 2 will introduce you to Generative AI and Large Language Models!
