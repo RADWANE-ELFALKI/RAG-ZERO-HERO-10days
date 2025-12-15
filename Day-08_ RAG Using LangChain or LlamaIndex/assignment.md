@@ -40,9 +40,7 @@ Build a complete RAG system using LangChain `langchain_rag.py`:
 **Test with:** Multiple documents
 
 **Deliverable:** `task1_langchain_rag.py`
-
 ---
-
 ### Task 2: LlamaIndex RAG System
 
 Build a complete RAG system using LlamaIndex `llamaindex_rag.py`:
