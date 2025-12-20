@@ -1,9 +1,7 @@
 # Day 6 — RAG Fundamentals (Retrieval → Augmentation → Generation)
-
 ## 1. Beginner-Friendly Introduction
 
 Today, you'll learn the complete RAG pipeline! **Retrieval-Augmented Generation** combines the best of both worlds: the knowledge retrieval of search engines and the language understanding of LLMs.
-
 **What is RAG?**
 RAG is a technique that:
 1. **Retrieves** relevant information from your documents
@@ -22,9 +20,7 @@ Instead of asking an LLM "What's in my company handbook?" (which it doesn't know
 2. Finds relevant sections
 3. Gives those sections to the LLM
 4. LLM answers based on YOUR documents
-
 ---
-
 ## 2. Deep-Dive Explanation
 
 ### 2.1 The RAG Pipeline
