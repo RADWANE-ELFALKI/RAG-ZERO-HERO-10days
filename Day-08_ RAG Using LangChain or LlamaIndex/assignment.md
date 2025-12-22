@@ -63,7 +63,7 @@ Build a complete RAG system using LlamaIndex `llamaindex_rag.py`:
 
 **Deliverable:** `task2_llamaindex_rag.py`
 
----
+----------------
 
 ### Task 3: Framework Configuration Comparison
 
