@@ -51,7 +51,6 @@ Build a complete RAG system using LlamaIndex `llamaindex_rag.py`:
 3. Query engine
 4. Response synthesis
 5. Query interface
-
 **Requirements:**
 - Use LlamaIndex components
 - Custom service context
@@ -125,9 +124,7 @@ Create a system that uses both frameworks `hybrid_rag.py`:
 - Integrate both frameworks
 - Explain why you chose each component
 - Make it work seamlessly
-
 **Deliverable:** `task5_hybrid_rag.py`
-
 ---
 
 ## One Mini Project
